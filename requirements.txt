@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pypdf2
+python-docx
+Pillow
+gtts
+openrouter-python
+pdf2image
+langdetect
